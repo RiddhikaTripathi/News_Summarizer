@@ -16,14 +16,6 @@ This project is a **news summarization tool** built using Python, Natural Langua
 - NLP (e.g., spaCy, NLTK, Hugging Face Transformers)
 - Streamlit (for deployment)
 
-## 🗂 File Structure
-
-| File Name                         | Description                          |
-|----------------------------------|--------------------------------------|
-| `news_summarizer.ipynb`          | Jupyter notebook containing the code |
-| `requirements.txt` (optional)    | List of required packages            |
-| `streamlit_app.py` (optional)    | Streamlit script (if app version)    |
-
 ## ✅ How to Use
 
 1. Clone or download this repository.
